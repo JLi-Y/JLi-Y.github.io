@@ -5,4 +5,5 @@ permalink: /
 profile_image: /assets/img/profile.jpg # Add your image path here
 ---
 
-This is the landing page for my site. Here's a quick introduction to me!
+I'm Jenny, a student at UCD studying Sports management. This portfolio showcases my work in HIST 4261/5261: Working With Data.
+
