@@ -21,3 +21,10 @@ The research project that I chose to review is “The Chinese Question: From a C
 
 
 The research begins with the cause of migration for the Chinese, for example in 1847 due to the opium war and the Taiping Rebellion one portion of the Chinese escaped from the war, and another portion of the Chinese was forced into the Coolie trade. This is where the migration started, even though at first a large number of them were brought to this land as laborers instead of trying to find a better life. Later on, it shows the role of Chinese immigrants in the U.S. economy, such as railroad construction workers, gold mining, agriculture, and manufacturing. Compared to other immigrants the Chinese did not engage in violent behavior or drunkenness, at the same time they took the heavy loads of work to boost the economy. However, the Chinese immigrants were still discriminated against by laws that were targeted at them, for example, The pigtail ordinance that forced the Chinese to cut off their traditional hairstyles, The Page Act that restricted the immigration of Chinese women, and The Chinese Exclusion Act that banned Chinese immigration. 
+
+
+
+
+<div align="center">
+  <p><img src="/assets/img/Second-screenshot.png" style="width: 70%;" /></p>
+</div>
