@@ -16,5 +16,5 @@ The research project that I chose to review is “The Chinese Question: From a C
 
 
 <div align="center">
-  <p><img src="/assets/img/example-screenshot.png" style="width: 80%;" /></p>
+  <p><img src="/assets/img/First-screenshot.png" style="width: 70%;" /></p>
 </div>
