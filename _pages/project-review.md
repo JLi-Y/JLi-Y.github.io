@@ -28,12 +28,10 @@ The research begins with the cause of migration for the Chinese, for example in 
 
 This website is divided into clear sections and makes it easy for viewers to understand and keep on track. For example, it started with the back story and then moved into a topic describing how the Chinese were discriminated against; giving historical images of propaganda and cartoons. After the visual representation of discrimination, the authors went into detail on how these actions happened in real life, listing out the acts that were discriminating towards the Chinese. At last, the website provided pictures from a pamphlet that was written by Chinese merchants; about how Chinese should not face unfairness.
 
-<div align="Left">            
-  <p><img src="/assets/img/Thrid-screenshot.png" style="width: 30%;" /></p>
-</div>
+                                                     
 <div align="center">
-  <p><img src="/assets/img/Fifth-screenshot.png" style="width: 60%;" /></p>
-</div>
-<div align="center">
-  <p><img src="/assets/img/Fourth-screenshot.png" style="width: 30%;" /></p>
-</div>
+  <p><img src="/assets/img/Fifth-screenshot.png" style="width: 70%;" /></p>
+</div>       
+
+
+There are many strengths and weaknesses on this website; starting from the strengths, the website contains various amounts of visual references. This would provide readers with a better view of what was happening in the 19th century.Other than this, at the very bottom of the website have a list of references that contains where the information is gathered for the completion of this website, this makes the details and information on the website more reliable. At the very top of the website, there is a bar that indicates each section of the website, by clicking on it it can bring you to the section with the title of it. When it comes to the weaknesses, the pamphlet pictures that were included would be hard for readers to understand; they could be summarized into simple words. The argument of the information is straightforward: how Chinese should not face this discrimination, with the lack of details and data the website went over the argument vaguely. Adding more economic data and facts about how Chinese labor helped build the U.S. economy would add more strength to the argument. The project does not have a specific targeted audience, it focuses on delivering information that has not yet been talked around much. This makes anyone interested in the history of Chinese immigrants and the acts that have been enforced on the Chinese a perfect reader. It can also be used as material for history classes, with the historical text that is included. 
