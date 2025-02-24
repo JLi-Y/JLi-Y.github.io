@@ -35,3 +35,13 @@ This website is divided into clear sections and makes it easy for viewers to und
 
 
 There are many strengths and weaknesses on this website; starting from the strengths, the website contains various amounts of visual references. This would provide readers with a better view of what was happening in the 19th century.Other than this, at the very bottom of the website have a list of references that contains where the information is gathered for the completion of this website, this makes the details and information on the website more reliable. At the very top of the website, there is a bar that indicates each section of the website, by clicking on it it can bring you to the section with the title of it. When it comes to the weaknesses, the pamphlet pictures that were included would be hard for readers to understand; they could be summarized into simple words. The argument of the information is straightforward: how Chinese should not face this discrimination, with the lack of details and data the website went over the argument vaguely. Adding more economic data and facts about how Chinese labor helped build the U.S. economy would add more strength to the argument. The project does not have a specific targeted audience, it focuses on delivering information that has not yet been talked around much. This makes anyone interested in the history of Chinese immigrants and the acts that have been enforced on the Chinese a perfect reader. It can also be used as material for history classes, with the historical text that is included. 
+
+
+<div align="center">
+  <p><img src="/assets/img/Sixth-screenshot.png" style="width: 70%;" /></p>
+</div> 
+
+
+To sum it up, this project is well structured, easy to follow, and very effective in showing the unfair treatment that Chinese immigrants faced. It makes a strong argument using real history and powerful examples, however, the argument has been made with different evidence, but it did not go deep into each category. With more explanations for complex historical texts and economic data changes from Chinese labor would make the project more complete. This project can be used by students as well as researchers who are hoping to gather information about the discrimination that Chinese have experienced in the 19th century.
+
+
