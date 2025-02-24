@@ -28,5 +28,12 @@ The research begins with the cause of migration for the Chinese, for example in 
 
 This website is divided into clear sections and makes it easy for viewers to understand and keep on track. For example, it started with the back story and then moved into a topic describing how the Chinese were discriminated against; giving historical images of propaganda and cartoons. After the visual representation of discrimination, the authors went into detail on how these actions happened in real life, listing out the acts that were discriminating towards the Chinese. At last, the website provided pictures from a pamphlet that was written by Chinese merchants; about how Chinese should not face unfairness.
 
-
-
+<div align="Left">            
+  <p><img src="/assets/img/Thrid-screenshot.png" style="width: 30%;" /></p>
+</div>
+<div align="center">
+  <p><img src="/assets/img/Fifth-screenshot.png" style="width: 60%;" /></p>
+</div>
+<div align="center">
+  <p><img src="/assets/img/Fourth-screenshot.png" style="width: 30%;" /></p>
+</div>
